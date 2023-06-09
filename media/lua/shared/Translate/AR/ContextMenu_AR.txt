@@ -1,0 +1,4 @@
+ContextMenu_AR{
+ ContextMenu_SelectAmount = "حدد المبلغ",
+ ContextMenu_TransferAmountInfo = "عناصر النقل (الحد الأقصى.",
+}

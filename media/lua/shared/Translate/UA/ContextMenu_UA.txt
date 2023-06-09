@@ -1,0 +1,4 @@
+ContextMenu_UA{
+ ContextMenu_SelectAmount = "Виберіть суму",
+ ContextMenu_TransferAmountInfo = "Передача предметів (макс.",
+}

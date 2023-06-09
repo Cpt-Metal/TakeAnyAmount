@@ -1,0 +1,4 @@
+ContextMenu_ES{
+ ContextMenu_SelectAmount = "Seleccione la cantidad a coger",
+ ContextMenu_TransferAmountInfo = "Transferir artículos (Max. ",
+}

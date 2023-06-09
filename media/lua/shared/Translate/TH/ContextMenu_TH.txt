@@ -1,0 +1,4 @@
+ContextMenu_TH= {
+ ContextMenu_SelectAmount = "ระบุจำนวนที่ต้องการหยิบ",
+ ContextMenu_TransferAmountInfo = "ย้ายไอเท็ม (สูงสุด ",
+}

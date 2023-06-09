@@ -1,0 +1,4 @@
+ContextMenu_NL{
+ ContextMenu_SelectAmount = "Selecteer bedrag",
+ ContextMenu_TransferAmountInfo = "Breng items over (max.",
+}

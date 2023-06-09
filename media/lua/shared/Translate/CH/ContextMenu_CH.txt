@@ -1,0 +1,4 @@
+ContextMenu_CH{
+ ContextMenu_SelectAmount = "輸入所要拿取數量",
+ ContextMenu_TransferAmountInfo = "傳輸物品 (最大值. ",
+}

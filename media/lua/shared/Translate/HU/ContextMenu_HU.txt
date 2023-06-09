@@ -1,0 +1,4 @@
+ContextMenu_HU{
+ ContextMenu_SelectAmount = "Válassza ki az összeget",
+ ContextMenu_TransferAmountInfo = "Átadási elemek (max.",
+}

@@ -1,0 +1,4 @@
+ContextMenu_RU{
+ ContextMenu_SelectAmount = "Взять определенное количество",
+ ContextMenu_TransferAmountInfo = "Перенести предметы (макс. ",
+}

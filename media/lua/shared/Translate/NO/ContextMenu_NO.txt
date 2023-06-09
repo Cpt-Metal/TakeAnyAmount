@@ -1,0 +1,4 @@
+ContextMenu_NO{
+ ContextMenu_SelectAmount = "Velg beløp",
+ ContextMenu_TransferAmountInfo = "Overfør elementer (maks.",
+}

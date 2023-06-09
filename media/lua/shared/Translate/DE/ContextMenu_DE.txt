@@ -1,0 +1,4 @@
+ContextMenu_DE{
+ ContextMenu_SelectAmount = "Menge wählen",
+ ContextMenu_TransferAmountInfo = "Elemente übertragen (max.",
+}

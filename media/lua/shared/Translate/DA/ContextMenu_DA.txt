@@ -1,0 +1,4 @@
+ContextMenu_DA{
+ ContextMenu_SelectAmount = "Vælg beløb",
+ ContextMenu_TransferAmountInfo = "Overførselsemner (maks.",
+}

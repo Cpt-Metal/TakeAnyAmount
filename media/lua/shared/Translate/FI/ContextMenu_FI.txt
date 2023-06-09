@@ -1,0 +1,4 @@
+ContextMenu_FI{
+ ContextMenu_SelectAmount = "Valitse määrä",
+ ContextMenu_TransferAmountInfo = "Siirrä tuotteet (enintään.",
+}

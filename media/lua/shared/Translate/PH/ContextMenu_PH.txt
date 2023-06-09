@@ -1,0 +1,4 @@
+ContextMenu_PH{
+ ContextMenu_SelectAmount = "Piliin ang Halaga",
+ ContextMenu_TransferAmountInfo = "Ilipat ang mga item (max.",
+}

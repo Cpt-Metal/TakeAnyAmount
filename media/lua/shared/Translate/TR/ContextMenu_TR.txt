@@ -1,0 +1,4 @@
+ContextMenu_TR= {
+ ContextMenu_SelectAmount = "Þu Kadar Al",
+ ContextMenu_TransferAmountInfo = "Transfer Et (en fazla ",
+}

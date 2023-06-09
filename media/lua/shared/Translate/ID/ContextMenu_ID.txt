@@ -1,0 +1,4 @@
+ContextMenu_ID{
+ ContextMenu_SelectAmount = "Jumlah Pilih",
+ ContextMenu_TransferAmountInfo = "Transfer item (maks.",
+}

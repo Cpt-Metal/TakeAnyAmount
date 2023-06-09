@@ -1,0 +1,4 @@
+ContextMenu_CS{
+ ContextMenu_SelectAmount = "Vyberte částku",
+ ContextMenu_TransferAmountInfo = "Přenos položek (max.",
+}
