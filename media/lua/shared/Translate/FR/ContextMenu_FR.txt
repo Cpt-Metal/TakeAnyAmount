@@ -1,4 +1,4 @@
 ContextMenu_FR{
- ContextMenu_SelectAmount = "SÃ©lectionner le montant",
- ContextMenu_TransferAmountInfo = "TransfÃ©rer les Ã©lÃ©ments (max.",
+ ContextMenu_SelectAmount = "Sélectionner la quantité",
+ ContextMenu_TransferAmountInfo = "Transférer les objets (max.",
 }

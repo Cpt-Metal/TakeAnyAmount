@@ -1,4 +1,4 @@
-ContextMenu_JP{
- ContextMenu_SelectAmount = "拾う個数を選択する",
+ContextMenu_JP = {
+ ContextMenu_SelectAmount = "転送する個数を選択する",
  ContextMenu_TransferAmountInfo = "転送するアイテム(最大",
 }

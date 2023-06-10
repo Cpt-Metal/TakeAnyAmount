@@ -1,4 +1,4 @@
 ContextMenu_UA{
- ContextMenu_SelectAmount = "Р’РёР±РµСЂС–С‚СЊ СЃСѓРјСѓ",
- ContextMenu_TransferAmountInfo = "РџРµСЂРµРґР°С‡Р° РїСЂРµРґРјРµС‚С–РІ (РјР°РєСЃ.",
+ ContextMenu_SelectAmount = "Взяти декілька",
+ ContextMenu_TransferAmountInfo = "Взяти предметів (макс.",
 }
