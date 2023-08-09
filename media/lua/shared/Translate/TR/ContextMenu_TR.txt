@@ -1,4 +1,5 @@
-ContextMenu_TR= {
- ContextMenu_SelectAmount = "Þu Kadar Al",
- ContextMenu_TransferAmountInfo = "Transfer Et (en fazla ",
+ContextMenu_TR{
+ ContextMenu_GrabAmount = "Yakalamak için miktarý seçin",
+ ContextMenu_PutAmount = "Koymak için miktarý seçin",
+ ContextMenu_TransferAmountInfo = "Transfer öðeleri (maks.",
 }

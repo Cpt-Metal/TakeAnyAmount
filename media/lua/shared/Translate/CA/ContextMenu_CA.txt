@@ -1,4 +1,5 @@
 ContextMenu_CA{
- ContextMenu_SelectAmount = "Seleccioneu la quantitat",
+ ContextMenu_GrabAmount = "Seleccioneu la quantitat per agafar",
+ ContextMenu_PutAmount = "Seleccioneu la quantitat per posar",
  ContextMenu_TransferAmountInfo = "Transferir articles (màxim.",
 }

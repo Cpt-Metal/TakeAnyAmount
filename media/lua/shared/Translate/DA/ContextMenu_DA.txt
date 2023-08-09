@@ -1,4 +1,5 @@
 ContextMenu_DA{
- ContextMenu_SelectAmount = "Vælg beløb",
+ ContextMenu_GrabAmount = "Vælg beløb for at få fat i",
+ ContextMenu_PutAmount = "Vælg beløb for at sætte",
  ContextMenu_TransferAmountInfo = "Overførselsemner (maks.",
 }

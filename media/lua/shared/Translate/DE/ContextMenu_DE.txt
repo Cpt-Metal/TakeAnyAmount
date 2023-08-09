@@ -1,4 +1,5 @@
 ContextMenu_DE{
- ContextMenu_SelectAmount = "Menge wählen",
- ContextMenu_TransferAmountInfo = "Elemente übertragen (max.",
+ ContextMenu_GrabAmount = "Menge nehmen ",
+ ContextMenu_PutAmount = "Menge ablegen",
+ ContextMenu_TransferAmountInfo = "Elemente verschieben (max.",
 }

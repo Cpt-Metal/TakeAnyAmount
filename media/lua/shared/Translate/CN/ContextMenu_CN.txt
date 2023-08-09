@@ -1,4 +1,5 @@
 ContextMenu_CN{
- ContextMenu_SelectAmount = "输入所要拿取数量",
- ContextMenu_TransferAmountInfo = "传输物品 (最大值. ",
+ ContextMenu_GrabAmount = "拿取(自定)",
+ ContextMenu_PutAmount = "放入(自定)",
+ ContextMenu_TransferAmountInfo = "转移物品 (最大.",
 }

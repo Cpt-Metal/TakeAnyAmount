@@ -1,4 +1,5 @@
 ContextMenu_NO{
- ContextMenu_SelectAmount = "Velg beløp",
+ ContextMenu_GrabAmount = "Velg beløp du skal ta tak i",
+ ContextMenu_PutAmount = "Velg beløp du skal legge",
  ContextMenu_TransferAmountInfo = "Overfør elementer (maks.",
 }

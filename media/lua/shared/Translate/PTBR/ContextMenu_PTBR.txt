@@ -1,4 +1,5 @@
 ContextMenu_PTBR{
- ContextMenu_SelectAmount = "Selecione a quantidade para pegar",
+ ContextMenu_GrabAmount = "Selecione o valor para pegar",
+ ContextMenu_PutAmount = "Selecione o valor para colocar",
  ContextMenu_TransferAmountInfo = "Transferir itens (máx.",
 }

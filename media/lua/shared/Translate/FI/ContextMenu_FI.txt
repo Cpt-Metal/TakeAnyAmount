@@ -1,4 +1,5 @@
 ContextMenu_FI{
- ContextMenu_SelectAmount = "Valitse määrä",
- ContextMenu_TransferAmountInfo = "Siirrä tuotteet (enintään.",
+ ContextMenu_GrabAmount = "Ota tietty määrä",
+ ContextMenu_PutAmount = "Laita tietty määrä",
+ ContextMenu_TransferAmountInfo = "Siirrä esineitä (maks.",
 }

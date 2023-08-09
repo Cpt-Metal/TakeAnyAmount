@@ -1,4 +1,5 @@
-ContextMenu_IT= {
- ContextMenu_SelectAmount = "Seleziona la quantità",
- ContextMenu_TransferAmountInfo = "Trasferisci oggetti (massimo. ",
+ContextMenu_IT{
+ ContextMenu_GrabAmount = "Seleziona importo da afferrare",
+ ContextMenu_PutAmount = "Seleziona l'importo da mettere",
+ ContextMenu_TransferAmountInfo = "Trasferisci gli articoli (max.",
 }

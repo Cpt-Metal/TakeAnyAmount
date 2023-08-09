@@ -1,4 +1,5 @@
-ContextMenu_PL= {
- ContextMenu_SelectAmount = "Weź określoną ilość",
- ContextMenu_TransferAmountInfo = "Przenieś przedmioty (maks. ",
+ContextMenu_PL{
+ ContextMenu_GrabAmount = "Wybierz kwotę do zdobycia",
+ ContextMenu_PutAmount = "Wybierz kwotę do umieszczenia",
+ ContextMenu_TransferAmountInfo = "Przedstaw elementy (maks.",
 }

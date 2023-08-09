@@ -1,4 +1,5 @@
-ContextMenu_TH= {
- ContextMenu_SelectAmount = "ระบุจำนวนที่ต้องการหยิบ",
- ContextMenu_TransferAmountInfo = "ย้ายไอเท็ม (สูงสุด ",
+ContextMenu_TH{
+ ContextMenu_GrabAmount = "เลือกจำนวนเงินที่จะคว้า",
+ ContextMenu_PutAmount = "เลือกจำนวนเงินที่จะใส่",
+ ContextMenu_TransferAmountInfo = "ถ่ายโอนรายการ (สูงสุด",
 }
