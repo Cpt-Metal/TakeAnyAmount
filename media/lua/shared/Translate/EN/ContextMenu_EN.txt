@@ -1,5 +1,5 @@
 ContextMenu_EN{
- ContextMenu_GrabAmount = "Grab grab",
+ ContextMenu_GrabAmount = "Grab amount",
  ContextMenu_PutAmount = "Put amount away",
  ContextMenu_TransferAmountInfo = "Transfer Items (max.",
 }
